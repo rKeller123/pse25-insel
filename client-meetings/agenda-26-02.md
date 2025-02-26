@@ -2,7 +2,7 @@
 # Kick-off meeting
 
 - **Moderator:** Raphael
-- **Recorder:** Yassica
+- **Recorder:** Yanic
 - **Date:** 26/02/2025 15:00 - 16:00
 - **Location:** Inselspital, Bettenhochhaus, B128
 
