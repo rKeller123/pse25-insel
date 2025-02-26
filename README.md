@@ -17,3 +17,6 @@
 ### Master Tracker
 **Name:** Elisa Stauffer  
 **Alias:** asileeee  
+
+### Arbeitsplan
+https://trello.com/b/ajrVGdMB/pse-dicoms-viewer
