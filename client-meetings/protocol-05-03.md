@@ -29,7 +29,7 @@
 |    | - Planned features: Brushing, coloring (segmentation), drag-and-drop images. |
 | 3  | **Technologies** |
 |    | - Cornerstone.js (region segmentation tool) |
-|    | - Python, JavaScript, Node.js, React, Graphicwell |
+|    | - Python, JavaScript, Node.js, React, GraphQL |
 |    | - Full-stack implementation: Backend, frontend, database |
 | 4  | **Next Steps** |
 |    | - **Goal for 1st Iteration:** Understand the code. Map out frontend flow in PowerPoint/Flipchart. |
