@@ -4,7 +4,7 @@
 
 - **Moderator:** Raphael Keller  
 - **Recorder:** Yanic Bernhard  
-- **Date:** 26/02/2025 15:00 - 16:00  
+- **Date:** 05/03/2025 08:30 - 10:00  
 - **Location:** Inselspital, Bettenhochhaus, B128  
 - **Present Persons:** Raphael Keller, Yanic Bernhard, Elisa Stauffer, Silas Kammler, Yassica Umaparan, Jolan Knüsel, Florin Ackermann, Roger Wolf  
 
