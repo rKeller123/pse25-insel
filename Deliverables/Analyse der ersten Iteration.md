@@ -7,15 +7,15 @@ Für die erste und zweite Iteration: Die zentralen Aufgaben umfassten das Einric
 
 **War der Umfang der Stories zu gross/zu klein?**
 
-Der Umfang der Stories wurde ist angemessen und entsprach den Erwartungen.
+Der Umfang der Stories ist angemessen und entsprach den Erwartungen.
 
 **War die Aufwandschätzung der Stories realistisch?**
 
-Die Einschätzung des Aufwands war herausfordernd, da man sich unsicher war, wie aufwändig eine Story sein würde. Jedoch waren unsere Einschätzungen einigermassen übereinstimmend mit dem realistischen Aufwand.
+Die Einschätzung des Aufwands war herausfordernd, da man sich unsicher war, wie aufwändig eine Story sein würde. Jedoch waren unsere Einschätzungen einigermassen übereinstimmend mit dem realen Aufwand.
 
 **Wurde der Aufwand, sich in neue Programmiersprachen/Technologien einzuarbeiten, realistisch eingeschätzt?**
 
-Diese Einschätzung war schwierig zu machen, da die Dauer der individuellen Einarbeitung variiert.
+Diese Einschätzung war schwierig zu machen, da die Dauer der individuellen Einarbeitung variiert. Aber grundsätzlich ist der Aufwand realistisch eingeschätzt. 
 
 **Wurde das Entwicklungstempo realistisch eingeschätzt? Gab es Engpässe?**
 
@@ -25,14 +25,13 @@ Aufgrund der Verschiebung des Meetings um eine Woche war eine vorherige Einarbei
 
 **War die Arbeitsbelastung aller Teammitglieder ähnlich? Sind alle zufrieden?**
 
-Aktuell ist die Arbeitsbelastung gleichmäßig verteilt, da aufgrund des fehlenden Zugriffs auf das Repository noch keine intensiven Aufgaben umgesetzt werden konnten.
-Einzelne Teammitglieder haben bereits mehr Vorbereitungsarbeit geleistet als andere.
+Aktuell ist die Arbeitsbelastung leicht unterschiedlich verteilt. 
+Einzelne Teammitglieder (Elisa & Yassica) haben bereits mehr Vorbereitungsarbeit aufgrund der Vorträge geleistet als andere.
 Raphael hat beim Aufstarten des Programms, mehr Zeit investiert, als andere.
-Elisa und Yassica haben aufgrund der Präsentationen auch mehr Zeit investiert.
 
 **Gab es ”Leerläufe“ oder Wartezeiten aufgrund der Abhängigkeiten zwischen den Tasks?**
 
-Da Kundenmeeting wurde um eine Woche verschoben wurde, erhielten wir somit die genauere Projektinformation und Requirements erst beim Meeting. Bis dahin konnten wir nichts gross am Projekt arbeiten.
+Da Kundenmeeting um eine Woche verschoben wurde, erhielten wir somit die genauere Projektinformation und Requirements erst beim Meeting. Bis dahin konnten wir nichts gross am Projekt arbeiten.
 
 **Wieviel Zeit hat jedes Teammitglied investiert für**
 
@@ -40,7 +39,7 @@ Da Kundenmeeting wurde um eine Woche verschoben wurde, erhielten wir somit die g
 
  - Präsentationen: Elisa für die Requirements und Yassica die Analyse der 1.Iteration
 
- - Aufstarten des Programms: In Bearbeitung, alle sind dran, ausser Yanic, da er noch kein Zugriff auf das Repository hat. Das Programm funktioniert bei 4 von 6 Teammitglieder.
+ - Aufstarten des Programms: In Bearbeitung, alle sind dran, ausser Yanic, da er noch kein Zugriff auf das Repository hat. Das Programm läuft bei 4 von 6 Teammitglieder.
 
  - Implementation von Testfällen: Noch nicht begonnen
 
@@ -51,5 +50,5 @@ Da Kundenmeeting wurde um eine Woche verschoben wurde, erhielten wir somit die g
 
 **Wo ist für die nächste Iteration diesbezüglich der grösste Aufwand zu erwarten?**
 
-Verständnis des bestehenden Codes vertiefen 
+Verständnis des bestehenden Codes erarbeiten
 Erlernen neuer Technologien zur Implementierung der geplanten Features
