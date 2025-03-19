@@ -18,7 +18,7 @@ Unit testing can be done with the python functions. The frontend can be stress t
 Waldo does not have any testing requirements.
 
 ## Documentation / User Manual
-Waldo would be interested in a workflow of the frontend. [example](https://vtk.org/doc/nightly/html/classsvtkAbstractCellArray.html)
+Waldo would be interested in a workflow of the frontend. [example](https://vtk.org/doc/nightly/html/classvtkAbstractCellArray.html)
 
 ## Deep Dive Stories
 Understand the painting part and modify the palett with other colors. [example](https://kitware.github.io/vtk-js/examples/ResliceCursorWidget.html)
