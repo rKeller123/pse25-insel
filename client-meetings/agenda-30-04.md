@@ -3,7 +3,7 @@
 
 - **Moderator:** Raphael
 - **Recorder:** Yassica
-- **Date:** 30/04/2025 15:00 - 16:00
+- **Date:** 30/04/2025 08:30 - 09:30
 - **Location:** Inselspital, Bettenhochhaus, B128
 
 ## Agenda
